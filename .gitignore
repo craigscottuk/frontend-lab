@@ -24,3 +24,6 @@ npm-debug.log*
 Thumbs.db
 **/.vercel/
 **/next-env.d.ts
+
+# Local Figma backups (not tracked by Git)
+/experiments/personal-organizer/design/local-backups/
